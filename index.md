@@ -10,20 +10,19 @@
     		<ul>
         		<li><a href="/">Home</a></li>
 	        	<li><a href="/about">About</a></li>
-        		<li><a href="/Photography">Photography</a></li>
+        		<li><a href="/photography">Photography</a></li>
         		<li><a href="/blog">Blog</a></li>
     		</ul>
 		</nav>
 		<div class="container">
     		<div class="blurb">
         		<h1>Tanya</h1>
-				<p>Story Teller, Dreamer, Consultant at Work</a></p>
+				<p>Story Teller, Dreamer, Consultant at Work</p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
     		<ul>
         		<li><a href="mailto:zhao.tong1112@gmail.com">email</a></li>
-        		<li><a href="https://github.com/tanyagalaxy">github.com/tanyagalaxy</a></li>
 			</ul>
 		</footer>
 	</body>
