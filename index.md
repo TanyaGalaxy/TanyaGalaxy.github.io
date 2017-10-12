@@ -17,7 +17,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>Tanya</h1>
-				<p>Story Teller, Dreamer, Consultant at Work</p>
+				<p>Story Teller, Dreamer, Consultant at Work </p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
